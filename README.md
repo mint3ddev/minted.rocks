@@ -1,7 +1,2 @@
-# Minted.rocks
-
-This is a website shows infomation about me
-
-
-
-people read this???
+# minted.rocks
+skidded from https://github.com/bearcattt/bearcat.rocks :3
